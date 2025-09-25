@@ -1,5 +1,5 @@
 # Conditional_Constraint_Fitting
-This example code demonstrates how to apply the conditional constraint method to fit a model prediction to a measurement. Intended as supplemental material to <arxiv>.
+This example code demonstrates how to apply the conditional constraint method to fit a model prediction to a measurement. Intended as supplemental material to https://arxiv.org/abs/2509.17945
 
 Model prediction with covariance matrix spanning measurement and parameter space is intended as input. This can be built from a set of universes, such as those generated in NUISANCE, or can be supplied directly. The (separate) applications of the regularization matrix and the quantile mapping mitigation strategy are demonstrated in example fits to cross sections from 10.1103/PhysRevLett.133.041801.
 
